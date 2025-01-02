@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   rendering.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: meroshen <meroshen@student.42berlin.de>    +#+  +:+       +#+        */
+/*   By: iatopchu <iatopchu@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/05 21:22:14 by meroshen          #+#    #+#             */
-/*   Updated: 2024/11/24 21:27:47 by meroshen         ###   ########.fr       */
+/*   Updated: 2025/01/02 17:26:36 by iatopchu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -34,12 +34,12 @@ void	draw_background(int x, t_data *data)
 	y = 0;
 	while (y < WIN_HEIGHT / 2)
 	{
-		put_pixel(data, x, y, data->color_f);
+		put_pixel(data, x, y, data->color_c);
 		y++;
 	}
 	while (y >= WIN_HEIGHT / 2 && y < WIN_HEIGHT)
 	{
-		put_pixel(data, x, y, data->color_c);
+		put_pixel(data, x, y, data->color_f);
 		y++;
 	}
 }
