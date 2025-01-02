@@ -1,0 +1,13 @@
+NO  ./textures/planks.xpm
+SO ./textures/cobblestone_01.xpm
+WE ./textures/basalt_top.xpm
+EA ./textures/wall2.xpm
+        
+F  0,120,0
+C  0,0,120
+
+11111111111111
+10001000100001
+100010N0100001
+1000100X111001
+11111111111111

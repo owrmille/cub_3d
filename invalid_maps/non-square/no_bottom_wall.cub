@@ -1,0 +1,20 @@
+
+
+NO textures/planks.xpm
+F    255, 255, 255
+
+    WE         ./textures/mycelium_top.xpm
+
+SO      ./textures/cobblestone_01.xpm
+
+      
+
+ C       0, 0,   0
+
+    EA       ./textures/netherrack_01.xpm
+
+
+ 11111 111111
+111001110001
+  1100S0001111 
+ 11001111 
