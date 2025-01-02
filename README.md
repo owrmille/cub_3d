@@ -4,7 +4,7 @@
 
 ## Collaboration
 
-👉🏻 This project was created together with [MariaErosh](https://github.com/MariaErosh/Cub3D) 
+👉🏻 This project was created together with [MariaErosh](https://github.com/MariaErosh) 
 
 ---
 
