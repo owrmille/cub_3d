@@ -12,8 +12,8 @@
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/owrmille/cub_3d/blob/main/demo/7.png" alt="Image 7" width="500">
-  <img src="https://github.com/owrmille/cub_3d/blob/main/demo/6.png" alt="Image 6" width="500">
+  <img src="https://github.com/owrmille/cub_3d/blob/main/demo/7.png" alt="Image 7" width="400">
+  <img src="https://github.com/owrmille/cub_3d/blob/main/demo/6.png" alt="Image 6" width="400">
 </div>
 
 See **.gif** demonstration **in the end**.
@@ -149,12 +149,12 @@ C 225,30,0
 
 ## Examples
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/owrmille/cub_3d/blob/main/demo/7.png" alt="Image 7" width="500">
-  <img src="https://github.com/owrmille/cub_3d/blob/main/demo/6.png" alt="Image 6" width="500">
-  <img src="https://github.com/owrmille/cub_3d/blob/main/demo/3.png" alt="Image 3" width="500">
-  <img src="https://github.com/owrmille/cub_3d/blob/main/demo/8.png" alt="Image 8" width="500"> 
-  <img src="https://github.com/owrmille/cub_3d/blob/main/demo/10.png" alt="Image 10" width="500">
-  <img src="https://github.com/owrmille/cub_3d/blob/main/demo/5.png" alt="Image 5" width="500">
+  <img src="https://github.com/owrmille/cub_3d/blob/main/demo/7.png" alt="Image 7" width="400">
+  <img src="https://github.com/owrmille/cub_3d/blob/main/demo/6.png" alt="Image 6" width="400">
+  <img src="https://github.com/owrmille/cub_3d/blob/main/demo/3.png" alt="Image 3" width="400">
+  <img src="https://github.com/owrmille/cub_3d/blob/main/demo/8.png" alt="Image 8" width="400"> 
+  <img src="https://github.com/owrmille/cub_3d/blob/main/demo/10.png" alt="Image 10" width="400">
+  <img src="https://github.com/owrmille/cub_3d/blob/main/demo/5.png" alt="Image 5" width="400">
 
 </div>
 
