@@ -16,7 +16,7 @@
   <img src="https://github.com/owrmille/cub_3d/blob/main/demo/6.png" alt="Image 6" width="400">
 </div>
 
-See **.gif** demonstration **in the end**.
+If interested, see **.gif** demonstration **in the end**!
 
 ---
 
@@ -101,11 +101,12 @@ You can design your own maze maps for Cub3D. Follow these guidelines:
    - The map **must be fully enclosed** by walls (`1`) and **must include only one player position**.
    - Example:
      ```plaintext
-     111111
-     100101
-     101001
-     1100N1
-     111111
+       111111
+      1101101
+     110000011
+     1100N0001
+     110010011
+     111111111
      ```
 
 ---
@@ -117,7 +118,7 @@ The `.cub` file should have the following structure:
 1. Start with the texture and color definitions.
 2. Add the map as the final component.
 3. Separate elements with one or more empty lines.
-4. Maintain the order of information within each element.
+4. Maintain the order within elements: the map must be last, while other elements can appear in any order.
 
 ---
 
@@ -160,9 +161,10 @@ C 225,30,0
 
 ---
 
-## Gif example
+## .gif example
 
-My computer is pretty slow, sorry for the .gif quality 🚀 🫨  
+My computer is old and slow, and screen recording didn’t help; sorry for the low GIF quality. 🚀 🫨  
+It runs smoothly on the 42 school’s computer, so no worries!
 
 <p align="center">
 <img src="https://github.com/owrmille/cub_3d/blob/main/demo/example.gif" alt="gif demo">
